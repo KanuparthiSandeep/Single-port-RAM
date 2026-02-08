@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Kanuparthi Sandeep**
 - GitHub: [kanuparthisandeep](https://github.com/KanuparthiSandeep)
 - LinkedIn: [Kanuparthi Sandeep](https://www.linkedin.com/in/kanuparthi-sandeep-51aa5630a.)
-- Email: your.email@example.com
+- Email: Kanuparthisandeep433@gmail.com
 
 ## 🙏 Acknowledgments
 - Thanks to [Hemanth Shekar] for guidance

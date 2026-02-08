@@ -13,7 +13,7 @@ Verification of a single port RAM design using Verilog and QuestaSim simulator. 
 
 ## 🛠️ Tools & Technologies
 - **Language:** System Verilog
-- **Simulator:** Mentor QuestaSim
+- **Simulator:** Modelsim/Xilinx Vivado/EDA Playground
 - **Version Control:** Git/GitHub
 
 ## 📁 Project Structure
@@ -37,7 +37,7 @@ single-port-ram-verification/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- QuestaSim/ModelSim installed
+- Modelsim/Xilinx Vivado/EDA Playground
 - Basic knowledge of Verilog
 
 ### Installation & Setup
@@ -52,7 +52,7 @@ cd single-port-ram-verification
 # Navigate to simulation directory
 cd sim
 
-# Run QuestaSim
+# Run Modelsim 
 vsim -do run.do
 
 # Or compile manually
@@ -101,9 +101,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 **Kanuparthi Sandeep**
 - GitHub: [kanuparthisandeep](https://github.com/KanuparthiSandeep)
@@ -116,7 +113,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Verilog HDL community
 
 ## 📚 References
-- [QuestaSim User Manual](https://www.mentor.com)
 - Verilog HDL: A Guide to Digital Design and Synthesis
 
 ---

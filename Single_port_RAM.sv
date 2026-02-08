@@ -27,3 +27,4 @@ module single_port_RAM
 
    assign data = cs & oe & !we ? tmp_data : 'hz;
 endmodule
+

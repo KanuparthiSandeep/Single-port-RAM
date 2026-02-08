@@ -70,10 +70,11 @@ run -all
 ## 📸 Screenshots
 
 ### Waveform Analysis
-![Waveform](docs/waveform_screenshot.png)
+![Waveform](https://photos.app.goo.gl/qKK2gG5HvMhdM1ww5)
 
 ### Block Diagram
-![Block Diagram](docs/block_diagram.png)
+![Block Diagram](https://photos.app.goo.gl/ckic6YeUdhEf7e7Q6)
+![Data Flow ](https://photos.app.goo.gl/wAUh1jumotXyRayX6)
 
 ## 🧪 Test Scenarios Covered
 - [x] Basic read/write operations

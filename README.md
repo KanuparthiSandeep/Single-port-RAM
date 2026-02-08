@@ -70,7 +70,7 @@ run -all
 ## 📸 Screenshots
 
 ### Waveform Analysis
-![Waveform]()
+![Waveform](https://github.com/KanuparthiSandeep/Single-port-RAM/blob/e585d3db03f61541fd68c648b704c6859dd10eb4/Waveform.png)
 
 ### Block Diagram
 ![Block Diagram](https://github.com/KanuparthiSandeep/Single-port-RAM/blob/da90f9cd8bfee17fddece7bcd4adef906b6bf2c2/Schematic.png)

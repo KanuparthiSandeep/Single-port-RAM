@@ -74,7 +74,7 @@ run -all
 
 ### Block Diagram
 ![Block Diagram]()
-![Data Flow ]()
+![Data Flow ](https://github.com/KanuparthiSandeep/Single-port-RAM/blob/c56acb39e431a1f2218b1e59ae7ece42336ee571/Dataflow.png)
 
 ## 🧪 Test Scenarios Covered
 - [x] Basic read/write operations

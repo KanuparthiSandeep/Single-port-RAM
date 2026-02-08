@@ -73,7 +73,7 @@ run -all
 ![Waveform]()
 
 ### Block Diagram
-![Block Diagram]()
+![Block Diagram](https://github.com/KanuparthiSandeep/Single-port-RAM/blob/da90f9cd8bfee17fddece7bcd4adef906b6bf2c2/Schematic.png)
 ![Data Flow ](https://github.com/KanuparthiSandeep/Single-port-RAM/blob/c56acb39e431a1f2218b1e59ae7ece42336ee571/Dataflow.png)
 
 ## 🧪 Test Scenarios Covered
